@@ -1,4 +1,4 @@
-package com.farisiqbal.weeklytodo.ui.theme
+package com.farisiqbal.weeklytodo.core.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
